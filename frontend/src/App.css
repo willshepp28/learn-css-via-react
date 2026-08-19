@@ -1,0 +1,206 @@
+/*
+ * App chrome. Challenge stylesheets should never need to touch anything here.
+ */
+
+.shell {
+  display: grid;
+  grid-template-columns: minmax(240px, 320px) 1fr;
+  min-block-size: 100svh;
+
+  @media (max-width: 800px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.sidebar {
+  border-inline-end: 1px solid var(--ui-border);
+  background: var(--ui-panel);
+  padding: 16px;
+  max-block-size: 100svh;
+  overflow-y: auto;
+  position: sticky;
+  inset-block-start: 0;
+
+  @media (max-width: 800px) {
+    position: static;
+    max-block-size: 50svh;
+  }
+}
+
+.brand {
+  display: block;
+  font-family: var(--ui-mono);
+  font-size: 13px;
+  color: var(--ui-text);
+  text-decoration: none;
+  margin-block-end: 12px;
+}
+
+.filter {
+  inline-size: 100%;
+  padding: 7px 10px;
+  font: inherit;
+  font-size: 13px;
+  border: 1px solid var(--ui-border);
+  border-radius: 6px;
+  background: var(--ui-bg);
+  color: inherit;
+  margin-block-end: 16px;
+}
+
+.phase {
+  margin-block-end: 18px;
+
+  h2 {
+    display: flex;
+    justify-content: space-between;
+    gap: 8px;
+    align-items: baseline;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--ui-muted);
+    margin: 0 0 6px;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+.phase-count {
+  font-family: var(--ui-mono);
+  font-size: 10px;
+  flex: none;
+}
+
+.item {
+  display: flex;
+  gap: 8px;
+  padding: 4px 6px;
+  border-radius: 5px;
+  font-size: 13px;
+  line-height: 1.35;
+  text-decoration: none;
+  color: var(--ui-text);
+}
+
+a.item:hover {
+  background: color-mix(in oklab, var(--ui-accent) 12%, transparent);
+}
+
+.item.current {
+  background: color-mix(in oklab, var(--ui-accent) 18%, transparent);
+  font-weight: 600;
+}
+
+.item.todo {
+  color: var(--ui-muted);
+  opacity: 0.7;
+}
+
+.item-id {
+  font-family: var(--ui-mono);
+  font-size: 11px;
+  color: var(--ui-muted);
+  flex: none;
+  padding-block-start: 1px;
+}
+
+.content {
+  min-inline-size: 0;
+}
+
+.stage-header {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 24px;
+  border-block-end: 1px solid var(--ui-border);
+
+  h1 {
+    font-size: 18px;
+    margin: 2px 0 0;
+  }
+
+  a {
+    color: var(--ui-accent);
+    font-size: 13px;
+  }
+}
+
+.stage-id {
+  font-family: var(--ui-mono);
+  font-size: 11px;
+  color: var(--ui-muted);
+}
+
+/* The isolated area a challenge renders into. */
+.stage {
+  padding: 24px;
+}
+
+.stage-loading {
+  color: var(--ui-muted);
+}
+
+.dashboard {
+  padding: 48px 24px;
+  max-inline-size: 60ch;
+
+  h1 {
+    font-size: clamp(28px, 5vw, 44px);
+    margin: 0 0 12px;
+    letter-spacing: -0.02em;
+  }
+}
+
+.lede {
+  color: var(--ui-muted);
+  line-height: 1.55;
+  margin: 0 0 32px;
+}
+
+.progress-bar {
+  block-size: 10px;
+  border-radius: 999px;
+  background: var(--ui-panel);
+  border: 1px solid var(--ui-border);
+  overflow: hidden;
+}
+
+.progress-fill {
+  block-size: 100%;
+  background: var(--ui-accent);
+  transition: inline-size 0.3s;
+}
+
+.progress-label {
+  font-size: 13px;
+  color: var(--ui-muted);
+  margin: 8px 0 0;
+}
+
+.next-up {
+  margin-block-start: 32px;
+  padding: 16px;
+  border: 1px solid var(--ui-border);
+  border-radius: 10px;
+  line-height: 1.8;
+
+  a {
+    color: var(--ui-accent);
+  }
+}
+
+code {
+  font-family: var(--ui-mono);
+  font-size: 0.9em;
+  background: var(--ui-panel);
+  border: 1px solid var(--ui-border);
+  border-radius: 4px;
+  padding: 2px 6px;
+}

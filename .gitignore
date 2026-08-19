@@ -1,0 +1,13 @@
+node_modules
+dist
+dist-ssr
+*.local
+*.log
+
+# transient state for the issue-seeding script
+scripts/.issue-seed-state.json
+
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea

@@ -1,0 +1,50 @@
+/*
+ * Shell-level styles only.
+ *
+ * Deliberately minimal: challenges must start from close to nothing, so you
+ * build type scales, color systems and spacing yourself instead of inheriting
+ * a design system you did not write. Everything the app chrome needs is
+ * namespaced --ui-*; never use these inside a challenge.
+ */
+
+:root {
+  --ui-bg: #ffffff;
+  --ui-panel: #f7f7f8;
+  --ui-text: #1c1b20;
+  --ui-muted: #6b6375;
+  --ui-border: #e5e4e7;
+  --ui-accent: #7c3aed;
+  --ui-mono: ui-monospace, SFMono-Regular, Consolas, monospace;
+  --ui-sans: system-ui, 'Segoe UI', Roboto, sans-serif;
+
+  color-scheme: light dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ui-bg: #131317;
+    --ui-panel: #191920;
+    --ui-text: #f3f4f6;
+    --ui-muted: #9ca3af;
+    --ui-border: #2e303a;
+    --ui-accent: #c084fc;
+  }
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: var(--ui-sans);
+  background: var(--ui-bg);
+  color: var(--ui-text);
+  -webkit-font-smoothing: antialiased;
+}
+
+#root {
+  min-block-size: 100svh;
+}
