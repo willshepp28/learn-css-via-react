@@ -106,7 +106,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Render your first challenge component and stylesheet",
     "phase": 1,
     "difficulty": "intro",
-    "issue": null
+    "issue": 1
   },
   {
     "id": 2,
@@ -114,7 +114,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Label every part of a CSS rule",
     "phase": 1,
     "difficulty": "intro",
-    "issue": null
+    "issue": 2
   },
   {
     "id": 3,
@@ -122,7 +122,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Style by element type",
     "phase": 1,
     "difficulty": "intro",
-    "issue": null
+    "issue": 3
   },
   {
     "id": 4,
@@ -130,7 +130,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Style by class instead of element",
     "phase": 1,
     "difficulty": "easy",
-    "issue": null
+    "issue": 4
   },
   {
     "id": 5,
@@ -138,7 +138,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Compose styles from multiple classes on one element",
     "phase": 1,
     "difficulty": "easy",
-    "issue": null
+    "issue": 5
   },
   {
     "id": 6,
@@ -146,7 +146,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Group selectors to remove duplicate rules",
     "phase": 1,
     "difficulty": "easy",
-    "issue": null
+    "issue": 7
   },
   {
     "id": 7,
@@ -154,7 +154,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Target elements nested inside a container",
     "phase": 1,
     "difficulty": "easy",
-    "issue": null
+    "issue": 8
   },
   {
     "id": 8,
@@ -162,7 +162,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Target direct children only",
     "phase": 1,
     "difficulty": "easy",
-    "issue": null
+    "issue": 9
   },
   {
     "id": 9,
@@ -170,7 +170,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Space stacked elements with the adjacent sibling combinator",
     "phase": 1,
     "difficulty": "medium",
-    "issue": null
+    "issue": 10
   },
   {
     "id": 10,
@@ -178,7 +178,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Style all later siblings with ~",
     "phase": 1,
     "difficulty": "medium",
-    "issue": null
+    "issue": 11
   },
   {
     "id": 11,
@@ -186,7 +186,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Select elements by attribute",
     "phase": 1,
     "difficulty": "medium",
-    "issue": null
+    "issue": 12
   },
   {
     "id": 12,
@@ -194,7 +194,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Match attribute values by prefix, suffix and substring",
     "phase": 1,
     "difficulty": "medium",
-    "issue": null
+    "issue": 13
   },
   {
     "id": 13,
@@ -202,7 +202,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Style hover, focus and active states",
     "phase": 1,
     "difficulty": "medium",
-    "issue": null
+    "issue": 14
   },
   {
     "id": 14,
@@ -210,7 +210,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Style the first and last items in a list",
     "phase": 1,
     "difficulty": "medium",
-    "issue": null
+    "issue": 15
   },
   {
     "id": 15,
@@ -218,7 +218,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Zebra-stripe and column-split with nth-child",
     "phase": 1,
     "difficulty": "medium",
-    "issue": null
+    "issue": 16
   },
   {
     "id": 16,
@@ -226,7 +226,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Exclude elements with :not()",
     "phase": 1,
     "difficulty": "medium",
-    "issue": null
+    "issue": 17
   },
   {
     "id": 17,
@@ -234,7 +234,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Flatten repetitive selectors with :is() and :where()",
     "phase": 1,
     "difficulty": "hard",
-    "issue": null
+    "issue": 18
   },
   {
     "id": 18,
@@ -242,7 +242,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Select a parent based on its children with :has()",
     "phase": 1,
     "difficulty": "hard",
-    "issue": null
+    "issue": 19
   },
   {
     "id": 19,
@@ -250,7 +250,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Generate content with ::before and ::after",
     "phase": 1,
     "difficulty": "medium",
-    "issue": null
+    "issue": 20
   },
   {
     "id": 20,
@@ -258,7 +258,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Style the first letter and first line of text",
     "phase": 1,
     "difficulty": "medium",
-    "issue": null
+    "issue": 21
   },
   {
     "id": 21,
@@ -266,7 +266,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Work out which properties inherit",
     "phase": 1,
     "difficulty": "medium",
-    "issue": null
+    "issue": 22
   },
   {
     "id": 22,
@@ -274,7 +274,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Control inheritance with inherit, initial, unset and revert",
     "phase": 1,
     "difficulty": "hard",
-    "issue": null
+    "issue": 23
   },
   {
     "id": 23,
@@ -282,7 +282,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Predict which rule wins before you run it",
     "phase": 1,
     "difficulty": "hard",
-    "issue": null
+    "issue": 24
   },
   {
     "id": 24,
@@ -290,7 +290,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Untangle a specificity war",
     "phase": 1,
     "difficulty": "hard",
-    "issue": null
+    "issue": 25
   },
   {
     "id": 25,
@@ -298,7 +298,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Break ties with source order",
     "phase": 1,
     "difficulty": "medium",
-    "issue": null
+    "issue": 26
   },
   {
     "id": 26,
@@ -306,7 +306,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Remove every !important from a stylesheet",
     "phase": 1,
     "difficulty": "hard",
-    "issue": null
+    "issue": 27
   },
   {
     "id": 27,
@@ -314,7 +314,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Order your CSS with @layer",
     "phase": 1,
     "difficulty": "hard",
-    "issue": null
+    "issue": 28
   },
   {
     "id": 28,
@@ -322,7 +322,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Use the universal selector deliberately",
     "phase": 1,
     "difficulty": "medium",
-    "issue": null
+    "issue": 29
   },
   {
     "id": 29,
@@ -330,7 +330,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Store values in CSS custom properties",
     "phase": 1,
     "difficulty": "medium",
-    "issue": null
+    "issue": 30
   },
   {
     "id": 30,
@@ -338,7 +338,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Handle missing custom properties",
     "phase": 1,
     "difficulty": "medium",
-    "issue": null
+    "issue": 31
   },
   {
     "id": 31,
@@ -346,7 +346,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Scope and override custom properties per component",
     "phase": 1,
     "difficulty": "hard",
-    "issue": null
+    "issue": 32
   },
   {
     "id": 32,
@@ -354,7 +354,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Impose an order on a stylesheet",
     "phase": 1,
     "difficulty": "easy",
-    "issue": null
+    "issue": 33
   },
   {
     "id": 33,
@@ -362,7 +362,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Debug a shorthand that erased a longhand",
     "phase": 1,
     "difficulty": "medium",
-    "issue": null
+    "issue": 34
   },
   {
     "id": 34,
@@ -370,7 +370,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Progressively enhance with @supports",
     "phase": 1,
     "difficulty": "hard",
-    "issue": null
+    "issue": 35
   },
   {
     "id": 35,
@@ -378,7 +378,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Wire stylesheets into React components properly",
     "phase": 1,
     "difficulty": "medium",
-    "issue": null
+    "issue": 36
   },
   {
     "id": 36,
@@ -386,7 +386,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Adopt a naming convention",
     "phase": 1,
     "difficulty": "medium",
-    "issue": null
+    "issue": 37
   },
   {
     "id": 37,
@@ -394,7 +394,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Drive classes from React state",
     "phase": 1,
     "difficulty": "medium",
-    "issue": null
+    "issue": 38
   },
   {
     "id": 38,
@@ -402,7 +402,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Write a tiny class-name joiner",
     "phase": 1,
     "difficulty": "medium",
-    "issue": null
+    "issue": 39
   },
   {
     "id": 39,
@@ -410,7 +410,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Decide where a custom property belongs",
     "phase": 1,
     "difficulty": "hard",
-    "issue": null
+    "issue": 40
   },
   {
     "id": 40,
@@ -418,7 +418,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Fix a deliberately broken stylesheet",
     "phase": 1,
     "difficulty": "hard",
-    "issue": null
+    "issue": 41
   },
   {
     "id": 41,
@@ -426,7 +426,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "See the difference between content-box and border-box",
     "phase": 2,
     "difficulty": "easy",
-    "issue": null
+    "issue": 42
   },
   {
     "id": 42,
@@ -434,7 +434,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Apply border-box the way real projects do",
     "phase": 2,
     "difficulty": "easy",
-    "issue": null
+    "issue": 43
   },
   {
     "id": 43,
@@ -442,7 +442,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Master the padding shorthand",
     "phase": 2,
     "difficulty": "easy",
-    "issue": null
+    "issue": 44
   },
   {
     "id": 44,
@@ -450,7 +450,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Master the margin shorthand and negative values",
     "phase": 2,
     "difficulty": "easy",
-    "issue": null
+    "issue": 45
   },
   {
     "id": 45,
@@ -458,7 +458,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Reproduce margin collapsing between siblings",
     "phase": 2,
     "difficulty": "medium",
-    "issue": null
+    "issue": 46
   },
   {
     "id": 46,
@@ -466,7 +466,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Fix a child's margin escaping its parent",
     "phase": 2,
     "difficulty": "medium",
-    "issue": null
+    "issue": 47
   },
   {
     "id": 47,
@@ -474,7 +474,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Centre and push with auto margins",
     "phase": 2,
     "difficulty": "easy",
-    "issue": null
+    "issue": 48
   },
   {
     "id": 48,
@@ -482,7 +482,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Replace physical properties with logical ones",
     "phase": 2,
     "difficulty": "medium",
-    "issue": null
+    "issue": 49
   },
   {
     "id": 49,
@@ -490,7 +490,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Set explicit dimensions and see what breaks",
     "phase": 2,
     "difficulty": "easy",
-    "issue": null
+    "issue": 50
   },
   {
     "id": 50,
@@ -498,7 +498,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Constrain width with min and max",
     "phase": 2,
     "difficulty": "easy",
-    "issue": null
+    "issue": 51
   },
   {
     "id": 51,
@@ -506,7 +506,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Lock an element's aspect ratio",
     "phase": 2,
     "difficulty": "medium",
-    "issue": null
+    "issue": 52
   },
   {
     "id": 52,
@@ -514,7 +514,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Choose between px, rem and em deliberately",
     "phase": 2,
     "difficulty": "medium",
-    "issue": null
+    "issue": 53
   },
   {
     "id": 53,
@@ -522,7 +522,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Reproduce the em compounding trap",
     "phase": 2,
     "difficulty": "medium",
-    "issue": null
+    "issue": 54
   },
   {
     "id": 54,
@@ -530,7 +530,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build and use a spacing scale",
     "phase": 2,
     "difficulty": "medium",
-    "issue": null
+    "issue": 55
   },
   {
     "id": 55,
@@ -538,7 +538,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Work out what a percentage is a percentage of",
     "phase": 2,
     "difficulty": "medium",
-    "issue": null
+    "issue": 56
   },
   {
     "id": 56,
@@ -546,7 +546,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Use vw, vh, svh, lvh and dvh correctly",
     "phase": 2,
     "difficulty": "medium",
-    "issue": null
+    "issue": 57
   },
   {
     "id": 57,
@@ -554,7 +554,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Size by text with ch and ex",
     "phase": 2,
     "difficulty": "easy",
-    "issue": null
+    "issue": 58
   },
   {
     "id": 58,
@@ -562,7 +562,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Mix units with calc()",
     "phase": 2,
     "difficulty": "medium",
-    "issue": null
+    "issue": 59
   },
   {
     "id": 59,
@@ -570,7 +570,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Replace media queries with min(), max() and clamp()",
     "phase": 2,
     "difficulty": "hard",
-    "issue": null
+    "issue": 60
   },
   {
     "id": 60,
@@ -578,7 +578,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Control overflow with visible, hidden, scroll and auto",
     "phase": 2,
     "difficulty": "easy",
-    "issue": null
+    "issue": 61
   },
   {
     "id": 61,
@@ -586,7 +586,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Understand why overflow-x and overflow-y interact",
     "phase": 2,
     "difficulty": "hard",
-    "issue": null
+    "issue": 62
   },
   {
     "id": 62,
@@ -594,7 +594,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Stop layout shifting when a scrollbar appears",
     "phase": 2,
     "difficulty": "medium",
-    "issue": null
+    "issue": 63
   },
   {
     "id": 63,
@@ -602,7 +602,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Truncate a single line with an ellipsis",
     "phase": 2,
     "difficulty": "easy",
-    "issue": null
+    "issue": 64
   },
   {
     "id": 64,
@@ -610,7 +610,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Truncate multi-line text",
     "phase": 2,
     "difficulty": "medium",
-    "issue": null
+    "issue": 65
   },
   {
     "id": 65,
@@ -618,7 +618,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Size with intrinsic keywords",
     "phase": 2,
     "difficulty": "hard",
-    "issue": null
+    "issue": 66
   },
   {
     "id": 66,
@@ -626,7 +626,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Hide things four different ways",
     "phase": 2,
     "difficulty": "medium",
-    "issue": null
+    "issue": 67
   },
   {
     "id": 67,
@@ -634,7 +634,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Space children with gap instead of margins",
     "phase": 2,
     "difficulty": "medium",
-    "issue": null
+    "issue": 68
   },
   {
     "id": 68,
@@ -642,7 +642,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Space a document with the owl selector",
     "phase": 2,
     "difficulty": "hard",
-    "issue": null
+    "issue": 69
   },
   {
     "id": 69,
@@ -650,7 +650,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Discover what padding does on an inline element",
     "phase": 2,
     "difficulty": "medium",
-    "issue": null
+    "issue": 70
   },
   {
     "id": 70,
@@ -658,7 +658,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Size images without distorting them",
     "phase": 2,
     "difficulty": "medium",
-    "issue": null
+    "issue": 71
   },
   {
     "id": 71,
@@ -666,7 +666,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Let content size the layout",
     "phase": 2,
     "difficulty": "hard",
-    "issue": null
+    "issue": 72
   },
   {
     "id": 72,
@@ -674,7 +674,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Stop content escaping rounded corners",
     "phase": 2,
     "difficulty": "medium",
-    "issue": null
+    "issue": 73
   },
   {
     "id": 73,
@@ -682,7 +682,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Make inputs and buttons size consistently",
     "phase": 2,
     "difficulty": "hard",
-    "issue": null
+    "issue": 74
   },
   {
     "id": 74,
@@ -690,7 +690,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Choose padding or margin correctly",
     "phase": 2,
     "difficulty": "medium",
-    "issue": null
+    "issue": 75
   },
   {
     "id": 75,
@@ -698,7 +698,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Debug layout with outline instead of border",
     "phase": 2,
     "difficulty": "easy",
-    "issue": null
+    "issue": 76
   },
   {
     "id": 76,
@@ -706,7 +706,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Audit a component's spacing",
     "phase": 2,
     "difficulty": "hard",
-    "issue": null
+    "issue": 77
   },
   {
     "id": 77,
@@ -714,7 +714,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Reason about nested percentage sizing",
     "phase": 2,
     "difficulty": "hard",
-    "issue": null
+    "issue": 78
   },
   {
     "id": 78,
@@ -722,7 +722,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Skip rendering work with content-visibility",
     "phase": 2,
     "difficulty": "hard",
-    "issue": null
+    "issue": 79
   },
   {
     "id": 79,
@@ -730,7 +730,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Write the sizing cheatsheet you will actually use",
     "phase": 2,
     "difficulty": "medium",
-    "issue": null
+    "issue": 80
   },
   {
     "id": 80,
@@ -738,7 +738,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Rebuild a pricing card from a screenshot, spacing only",
     "phase": 2,
     "difficulty": "hard",
-    "issue": null
+    "issue": 81
   },
   {
     "id": 81,
@@ -746,7 +746,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a font stack that degrades well",
     "phase": 3,
     "difficulty": "easy",
-    "issue": null
+    "issue": 82
   },
   {
     "id": 82,
@@ -754,7 +754,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Use the system UI font stack",
     "phase": 3,
     "difficulty": "easy",
-    "issue": null
+    "issue": 83
   },
   {
     "id": 83,
@@ -762,7 +762,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Load a web font with @font-face",
     "phase": 3,
     "difficulty": "medium",
-    "issue": null
+    "issue": 84
   },
   {
     "id": 84,
@@ -770,7 +770,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Control the flash with font-display",
     "phase": 3,
     "difficulty": "medium",
-    "issue": null
+    "issue": 85
   },
   {
     "id": 85,
@@ -778,7 +778,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Use a variable font's axes",
     "phase": 3,
     "difficulty": "hard",
-    "issue": null
+    "issue": 86
   },
   {
     "id": 86,
@@ -786,7 +786,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Reduce font swap shift with metric overrides",
     "phase": 3,
     "difficulty": "hard",
-    "issue": null
+    "issue": 87
   },
   {
     "id": 87,
@@ -794,7 +794,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a modular type scale",
     "phase": 3,
     "difficulty": "medium",
-    "issue": null
+    "issue": 88
   },
   {
     "id": 88,
@@ -802,7 +802,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Set line-height without units",
     "phase": 3,
     "difficulty": "easy",
-    "issue": null
+    "issue": 89
   },
   {
     "id": 89,
@@ -810,7 +810,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Set a comfortable line length",
     "phase": 3,
     "difficulty": "easy",
-    "issue": null
+    "issue": 90
   },
   {
     "id": 90,
@@ -818,7 +818,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Use weight as hierarchy",
     "phase": 3,
     "difficulty": "easy",
-    "issue": null
+    "issue": 91
   },
   {
     "id": 91,
@@ -826,7 +826,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Adjust tracking for size",
     "phase": 3,
     "difficulty": "medium",
-    "issue": null
+    "issue": 92
   },
   {
     "id": 92,
@@ -834,7 +834,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Control word spacing and alignment",
     "phase": 3,
     "difficulty": "medium",
-    "issue": null
+    "issue": 93
   },
   {
     "id": 93,
@@ -842,7 +842,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Transform case in CSS, not in content",
     "phase": 3,
     "difficulty": "easy",
-    "issue": null
+    "issue": 94
   },
   {
     "id": 94,
@@ -850,7 +850,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Stop long words from breaking layout",
     "phase": 3,
     "difficulty": "medium",
-    "issue": null
+    "issue": 95
   },
   {
     "id": 95,
@@ -858,7 +858,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Control whitespace and preformatted text",
     "phase": 3,
     "difficulty": "medium",
-    "issue": null
+    "issue": 96
   },
   {
     "id": 96,
@@ -866,7 +866,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Style underlines properly",
     "phase": 3,
     "difficulty": "medium",
-    "issue": null
+    "issue": 97
   },
   {
     "id": 97,
@@ -874,7 +874,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Style every link state",
     "phase": 3,
     "difficulty": "medium",
-    "issue": null
+    "issue": 98
   },
   {
     "id": 98,
@@ -882,7 +882,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Establish a vertical rhythm",
     "phase": 3,
     "difficulty": "hard",
-    "issue": null
+    "issue": 99
   },
   {
     "id": 99,
@@ -890,7 +890,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Style a full heading hierarchy",
     "phase": 3,
     "difficulty": "medium",
-    "issue": null
+    "issue": 100
   },
   {
     "id": 100,
@@ -898,7 +898,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Style lists and markers",
     "phase": 3,
     "difficulty": "medium",
-    "issue": null
+    "issue": 101
   },
   {
     "id": 101,
@@ -906,7 +906,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Number things with CSS counters",
     "phase": 3,
     "difficulty": "hard",
-    "issue": null
+    "issue": 102
   },
   {
     "id": 102,
@@ -914,7 +914,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Style quotes and pull quotes",
     "phase": 3,
     "difficulty": "medium",
-    "issue": null
+    "issue": 103
   },
   {
     "id": 103,
@@ -922,7 +922,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Style inline code and code blocks",
     "phase": 3,
     "difficulty": "medium",
-    "issue": null
+    "issue": 104
   },
   {
     "id": 104,
@@ -930,7 +930,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Align numbers in a table",
     "phase": 3,
     "difficulty": "medium",
-    "issue": null
+    "issue": 105
   },
   {
     "id": 105,
@@ -938,7 +938,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Turn on ligatures, small caps and alternates",
     "phase": 3,
     "difficulty": "hard",
-    "issue": null
+    "issue": 106
   },
   {
     "id": 106,
@@ -946,7 +946,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Balance and prettify text wrapping",
     "phase": 3,
     "difficulty": "medium",
-    "issue": null
+    "issue": 107
   },
   {
     "id": 107,
@@ -954,7 +954,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Scale type with clamp",
     "phase": 3,
     "difficulty": "hard",
-    "issue": null
+    "issue": 108
   },
   {
     "id": 108,
@@ -962,7 +962,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Generate a fluid type scale",
     "phase": 3,
     "difficulty": "hard",
-    "issue": null
+    "issue": 109
   },
   {
     "id": 109,
@@ -970,7 +970,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Set text vertically",
     "phase": 3,
     "difficulty": "hard",
-    "issue": null
+    "issue": 110
   },
   {
     "id": 110,
@@ -978,7 +978,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Keep text legible over an image",
     "phase": 3,
     "difficulty": "hard",
-    "issue": null
+    "issue": 111
   },
   {
     "id": 111,
@@ -986,7 +986,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Choose between wrapping, truncating and scrolling",
     "phase": 3,
     "difficulty": "medium",
-    "issue": null
+    "issue": 112
   },
   {
     "id": 112,
@@ -994,7 +994,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Space paragraphs like a typographer",
     "phase": 3,
     "difficulty": "easy",
-    "issue": null
+    "issue": 113
   },
   {
     "id": 113,
@@ -1002,7 +1002,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Style selection, caret and placeholder",
     "phase": 3,
     "difficulty": "easy",
-    "issue": null
+    "issue": 114
   },
   {
     "id": 114,
@@ -1010,7 +1010,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Fix the small typographic details",
     "phase": 3,
     "difficulty": "medium",
-    "issue": null
+    "issue": 115
   },
   {
     "id": 115,
@@ -1018,7 +1018,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Typeset a long-form article",
     "phase": 3,
     "difficulty": "hard",
-    "issue": null
+    "issue": 116
   },
   {
     "id": 116,
@@ -1026,7 +1026,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Write color five different ways",
     "phase": 4,
     "difficulty": "easy",
-    "issue": null
+    "issue": 117
   },
   {
     "id": 117,
@@ -1034,7 +1034,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a palette by reasoning in HSL",
     "phase": 4,
     "difficulty": "medium",
-    "issue": null
+    "issue": 118
   },
   {
     "id": 118,
@@ -1042,7 +1042,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a perceptually even palette in OKLCH",
     "phase": 4,
     "difficulty": "hard",
-    "issue": null
+    "issue": 119
   },
   {
     "id": 119,
@@ -1050,7 +1050,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Derive colors with color-mix()",
     "phase": 4,
     "difficulty": "hard",
-    "issue": null
+    "issue": 120
   },
   {
     "id": 120,
@@ -1058,7 +1058,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Derive colors with relative color syntax",
     "phase": 4,
     "difficulty": "hard",
-    "issue": null
+    "issue": 121
   },
   {
     "id": 121,
@@ -1066,7 +1066,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Name colors by role, not by value",
     "phase": 4,
     "difficulty": "medium",
-    "issue": null
+    "issue": 122
   },
   {
     "id": 122,
@@ -1074,7 +1074,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Measure and fix contrast",
     "phase": 4,
     "difficulty": "medium",
-    "issue": null
+    "issue": 123
   },
   {
     "id": 123,
@@ -1082,7 +1082,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Add a dark theme by swapping tokens",
     "phase": 4,
     "difficulty": "hard",
-    "issue": null
+    "issue": 124
   },
   {
     "id": 124,
@@ -1090,7 +1090,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Let the user override the theme",
     "phase": 4,
     "difficulty": "hard",
-    "issue": null
+    "issue": 125
   },
   {
     "id": 125,
@@ -1098,7 +1098,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Use alpha without muddying your palette",
     "phase": 4,
     "difficulty": "medium",
-    "issue": null
+    "issue": 126
   },
   {
     "id": 126,
@@ -1106,7 +1106,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Propagate color with currentColor",
     "phase": 4,
     "difficulty": "medium",
-    "issue": null
+    "issue": 127
   },
   {
     "id": 127,
@@ -1114,7 +1114,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Draw linear gradients",
     "phase": 4,
     "difficulty": "medium",
-    "issue": null
+    "issue": 128
   },
   {
     "id": 128,
@@ -1122,7 +1122,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Draw radial and conic gradients",
     "phase": 4,
     "difficulty": "hard",
-    "issue": null
+    "issue": 129
   },
   {
     "id": 129,
@@ -1130,7 +1130,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Clip a gradient to text",
     "phase": 4,
     "difficulty": "medium",
-    "issue": null
+    "issue": 130
   },
   {
     "id": 130,
@@ -1138,7 +1138,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Fake a gradient border",
     "phase": 4,
     "difficulty": "hard",
-    "issue": null
+    "issue": 131
   },
   {
     "id": 131,
@@ -1146,7 +1146,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Place and size a background image",
     "phase": 4,
     "difficulty": "easy",
-    "issue": null
+    "issue": 132
   },
   {
     "id": 132,
@@ -1154,7 +1154,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Layer multiple backgrounds",
     "phase": 4,
     "difficulty": "hard",
-    "issue": null
+    "issue": 133
   },
   {
     "id": 133,
@@ -1162,7 +1162,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Control background scrolling",
     "phase": 4,
     "difficulty": "medium",
-    "issue": null
+    "issue": 134
   },
   {
     "id": 134,
@@ -1170,7 +1170,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Control where a background starts and stops",
     "phase": 4,
     "difficulty": "medium",
-    "issue": null
+    "issue": 135
   },
   {
     "id": 135,
@@ -1178,7 +1178,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Draw a pattern with gradients only",
     "phase": 4,
     "difficulty": "hard",
-    "issue": null
+    "issue": 136
   },
   {
     "id": 136,
@@ -1186,7 +1186,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Blend backgrounds and elements",
     "phase": 4,
     "difficulty": "hard",
-    "issue": null
+    "issue": 137
   },
   {
     "id": 137,
@@ -1194,7 +1194,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Apply CSS filters",
     "phase": 4,
     "difficulty": "medium",
-    "issue": null
+    "issue": 138
   },
   {
     "id": 138,
@@ -1202,7 +1202,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Frost a panel with backdrop-filter",
     "phase": 4,
     "difficulty": "hard",
-    "issue": null
+    "issue": 139
   },
   {
     "id": 139,
@@ -1210,7 +1210,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Theme native controls",
     "phase": 4,
     "difficulty": "easy",
-    "issue": null
+    "issue": 140
   },
   {
     "id": 140,
@@ -1218,7 +1218,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Survive forced-colors mode",
     "phase": 4,
     "difficulty": "hard",
-    "issue": null
+    "issue": 141
   },
   {
     "id": 141,
@@ -1226,7 +1226,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Never rely on color alone",
     "phase": 4,
     "difficulty": "medium",
-    "issue": null
+    "issue": 142
   },
   {
     "id": 142,
@@ -1234,7 +1234,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Use wide-gamut color safely",
     "phase": 4,
     "difficulty": "hard",
-    "issue": null
+    "issue": 143
   },
   {
     "id": 143,
@@ -1242,7 +1242,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Support two brands from one stylesheet",
     "phase": 4,
     "difficulty": "hard",
-    "issue": null
+    "issue": 144
   },
   {
     "id": 144,
@@ -1250,7 +1250,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Derive interaction state colors systematically",
     "phase": 4,
     "difficulty": "medium",
-    "issue": null
+    "issue": 145
   },
   {
     "id": 145,
@@ -1258,7 +1258,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Tint shadows to match the surface",
     "phase": 4,
     "difficulty": "medium",
-    "issue": null
+    "issue": 146
   },
   {
     "id": 146,
@@ -1266,7 +1266,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a consistent image treatment system",
     "phase": 4,
     "difficulty": "hard",
-    "issue": null
+    "issue": 147
   },
   {
     "id": 147,
@@ -1274,7 +1274,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Style a page for print",
     "phase": 4,
     "difficulty": "medium",
-    "issue": null
+    "issue": 148
   },
   {
     "id": 148,
@@ -1282,7 +1282,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Audit and consolidate a color system",
     "phase": 4,
     "difficulty": "hard",
-    "issue": null
+    "issue": 149
   },
   {
     "id": 149,
@@ -1290,7 +1290,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a gradient hero section",
     "phase": 4,
     "difficulty": "medium",
-    "issue": null
+    "issue": 150
   },
   {
     "id": 150,
@@ -1298,7 +1298,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Ship a themed component library page",
     "phase": 4,
     "difficulty": "hard",
-    "issue": null
+    "issue": 151
   },
   {
     "id": 151,
@@ -1306,7 +1306,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Use the border shorthand and longhands",
     "phase": 5,
     "difficulty": "easy",
-    "issue": null
+    "issue": 152
   },
   {
     "id": 152,
@@ -1314,7 +1314,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Round corners precisely",
     "phase": 5,
     "difficulty": "easy",
-    "issue": null
+    "issue": 153
   },
   {
     "id": 153,
@@ -1322,7 +1322,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Use the slash syntax for elliptical corners",
     "phase": 5,
     "difficulty": "medium",
-    "issue": null
+    "issue": 154
   },
   {
     "id": 154,
@@ -1330,7 +1330,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Choose outline over border for focus",
     "phase": 5,
     "difficulty": "easy",
-    "issue": null
+    "issue": 155
   },
   {
     "id": 155,
@@ -1338,7 +1338,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Read and write every box-shadow value",
     "phase": 5,
     "difficulty": "easy",
-    "issue": null
+    "issue": 156
   },
   {
     "id": 156,
@@ -1346,7 +1346,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build realistic depth with layered shadows",
     "phase": 5,
     "difficulty": "hard",
-    "issue": null
+    "issue": 157
   },
   {
     "id": 157,
@@ -1354,7 +1354,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Compare box-shadow with drop-shadow",
     "phase": 5,
     "difficulty": "medium",
-    "issue": null
+    "issue": 158
   },
   {
     "id": 158,
@@ -1362,7 +1362,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Design a focus ring system",
     "phase": 5,
     "difficulty": "hard",
-    "issue": null
+    "issue": 159
   },
   {
     "id": 159,
@@ -1370,7 +1370,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Use border-image",
     "phase": 5,
     "difficulty": "hard",
-    "issue": null
+    "issue": 160
   },
   {
     "id": 160,
@@ -1378,7 +1378,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Draw shapes using only border tricks",
     "phase": 5,
     "difficulty": "medium",
-    "issue": null
+    "issue": 161
   },
   {
     "id": 161,
@@ -1386,7 +1386,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Cut shapes with clip-path",
     "phase": 5,
     "difficulty": "medium",
-    "issue": null
+    "issue": 162
   },
   {
     "id": 162,
@@ -1394,7 +1394,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Animate a clip-path reveal",
     "phase": 5,
     "difficulty": "hard",
-    "issue": null
+    "issue": 163
   },
   {
     "id": 163,
@@ -1402,7 +1402,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Mask an element with an image or gradient",
     "phase": 5,
     "difficulty": "hard",
-    "issue": null
+    "issue": 164
   },
   {
     "id": 164,
@@ -1410,7 +1410,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Wrap text around a shape",
     "phase": 5,
     "difficulty": "hard",
-    "issue": null
+    "issue": 165
   },
   {
     "id": 165,
@@ -1418,7 +1418,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build dividers that hold up",
     "phase": 5,
     "difficulty": "easy",
-    "issue": null
+    "issue": 166
   },
   {
     "id": 166,
@@ -1426,7 +1426,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Style a card with border, radius and shadow together",
     "phase": 5,
     "difficulty": "medium",
-    "issue": null
+    "issue": 167
   },
   {
     "id": 167,
@@ -1434,7 +1434,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a skeleton loading state",
     "phase": 5,
     "difficulty": "medium",
-    "issue": null
+    "issue": 168
   },
   {
     "id": 168,
@@ -1442,7 +1442,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build notification badges and status rings",
     "phase": 5,
     "difficulty": "medium",
-    "issue": null
+    "issue": 169
   },
   {
     "id": 169,
@@ -1450,7 +1450,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Show that content is scrollable",
     "phase": 5,
     "difficulty": "hard",
-    "issue": null
+    "issue": 170
   },
   {
     "id": 170,
@@ -1458,7 +1458,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Control dash patterns",
     "phase": 5,
     "difficulty": "medium",
-    "issue": null
+    "issue": 171
   },
   {
     "id": 171,
@@ -1466,7 +1466,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Cut notches and corners",
     "phase": 5,
     "difficulty": "hard",
-    "issue": null
+    "issue": 172
   },
   {
     "id": 172,
@@ -1474,7 +1474,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Combine aspect-ratio with shapes",
     "phase": 5,
     "difficulty": "medium",
-    "issue": null
+    "issue": 173
   },
   {
     "id": 173,
@@ -1482,7 +1482,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Get table borders right",
     "phase": 5,
     "difficulty": "medium",
-    "issue": null
+    "issue": 174
   },
   {
     "id": 174,
@@ -1490,7 +1490,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Debug a shape that renders wrong",
     "phase": 5,
     "difficulty": "hard",
-    "issue": null
+    "issue": 175
   },
   {
     "id": 175,
@@ -1498,7 +1498,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Draw something non-trivial in pure CSS",
     "phase": 5,
     "difficulty": "hard",
-    "issue": null
+    "issue": 176
   },
   {
     "id": 176,
@@ -1506,7 +1506,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Tell block and inline boxes apart",
     "phase": 6,
     "difficulty": "easy",
-    "issue": null
+    "issue": 177
   },
   {
     "id": 177,
@@ -1514,7 +1514,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Use inline-block and meet the whitespace gap",
     "phase": 6,
     "difficulty": "medium",
-    "issue": null
+    "issue": 178
   },
   {
     "id": 178,
@@ -1522,7 +1522,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Use vertical-align where it actually applies",
     "phase": 6,
     "difficulty": "medium",
-    "issue": null
+    "issue": 179
   },
   {
     "id": 179,
@@ -1530,7 +1530,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Describe normal flow by breaking it",
     "phase": 6,
     "difficulty": "easy",
-    "issue": null
+    "issue": 180
   },
   {
     "id": 180,
@@ -1538,7 +1538,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Create a block formatting context on purpose",
     "phase": 6,
     "difficulty": "hard",
-    "issue": null
+    "issue": 181
   },
   {
     "id": 181,
@@ -1546,7 +1546,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Use floats for what they were designed for",
     "phase": 6,
     "difficulty": "medium",
-    "issue": null
+    "issue": 182
   },
   {
     "id": 182,
@@ -1554,7 +1554,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Nudge with position: relative",
     "phase": 6,
     "difficulty": "easy",
-    "issue": null
+    "issue": 183
   },
   {
     "id": 183,
@@ -1562,7 +1562,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Position an element against its containing block",
     "phase": 6,
     "difficulty": "medium",
-    "issue": null
+    "issue": 184
   },
   {
     "id": 184,
@@ -1570,7 +1570,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Centre absolutely, three ways",
     "phase": 6,
     "difficulty": "medium",
-    "issue": null
+    "issue": 185
   },
   {
     "id": 185,
@@ -1578,7 +1578,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Pin an element to the viewport",
     "phase": 6,
     "difficulty": "medium",
-    "issue": null
+    "issue": 186
   },
   {
     "id": 186,
@@ -1586,7 +1586,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Make an element stick",
     "phase": 6,
     "difficulty": "hard",
-    "issue": null
+    "issue": 187
   },
   {
     "id": 187,
@@ -1594,7 +1594,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Stick a table header and first column",
     "phase": 6,
     "difficulty": "hard",
-    "issue": null
+    "issue": 188
   },
   {
     "id": 188,
@@ -1602,7 +1602,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Control paint order with z-index",
     "phase": 6,
     "difficulty": "medium",
-    "issue": null
+    "issue": 189
   },
   {
     "id": 189,
@@ -1610,7 +1610,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Find the stacking context that is breaking your z-index",
     "phase": 6,
     "difficulty": "hard",
-    "issue": null
+    "issue": 190
   },
   {
     "id": 190,
@@ -1618,7 +1618,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Create a stacking context deliberately",
     "phase": 6,
     "difficulty": "medium",
-    "issue": null
+    "issue": 191
   },
   {
     "id": 191,
@@ -1626,7 +1626,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Layer a modal, dropdown and toast correctly",
     "phase": 6,
     "difficulty": "hard",
-    "issue": null
+    "issue": 192
   },
   {
     "id": 192,
@@ -1634,7 +1634,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Use the top layer with dialog and popover",
     "phase": 6,
     "difficulty": "hard",
-    "issue": null
+    "issue": 193
   },
   {
     "id": 193,
@@ -1642,7 +1642,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Position a popover against an anchor",
     "phase": 6,
     "difficulty": "hard",
-    "issue": null
+    "issue": 194
   },
   {
     "id": 194,
@@ -1650,7 +1650,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Trace the containing block chain",
     "phase": 6,
     "difficulty": "hard",
-    "issue": null
+    "issue": 195
   },
   {
     "id": 195,
@@ -1658,7 +1658,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Combine overflow with absolute children",
     "phase": 6,
     "difficulty": "hard",
-    "issue": null
+    "issue": 196
   },
   {
     "id": 196,
@@ -1666,7 +1666,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Remove a box without removing the element",
     "phase": 6,
     "difficulty": "hard",
-    "issue": null
+    "issue": 197
   },
   {
     "id": 197,
@@ -1674,7 +1674,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Hide without collapsing layout",
     "phase": 6,
     "difficulty": "easy",
-    "issue": null
+    "issue": 198
   },
   {
     "id": 198,
@@ -1682,7 +1682,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Lay out text in columns",
     "phase": 6,
     "difficulty": "medium",
-    "issue": null
+    "issue": 199
   },
   {
     "id": 199,
@@ -1690,7 +1690,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Span an element across columns",
     "phase": 6,
     "difficulty": "medium",
-    "issue": null
+    "issue": 200
   },
   {
     "id": 200,
@@ -1698,7 +1698,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Control page and column breaks",
     "phase": 6,
     "difficulty": "hard",
-    "issue": null
+    "issue": 201
   },
   {
     "id": 201,
@@ -1706,7 +1706,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Lay out a real data table",
     "phase": 6,
     "difficulty": "medium",
-    "issue": null
+    "issue": 202
   },
   {
     "id": 202,
@@ -1714,7 +1714,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Make a wide table usable on mobile",
     "phase": 6,
     "difficulty": "hard",
-    "issue": null
+    "issue": 203
   },
   {
     "id": 203,
@@ -1722,7 +1722,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a horizontal scroll region",
     "phase": 6,
     "difficulty": "medium",
-    "issue": null
+    "issue": 204
   },
   {
     "id": 204,
@@ -1730,7 +1730,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Add scroll snapping",
     "phase": 6,
     "difficulty": "hard",
-    "issue": null
+    "issue": 205
   },
   {
     "id": 205,
@@ -1738,7 +1738,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Implement smooth scroll and scroll margin",
     "phase": 6,
     "difficulty": "easy",
-    "issue": null
+    "issue": 206
   },
   {
     "id": 206,
@@ -1746,7 +1746,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Stop scroll chaining",
     "phase": 6,
     "difficulty": "medium",
-    "issue": null
+    "issue": 207
   },
   {
     "id": 207,
@@ -1754,7 +1754,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Overlay content on media",
     "phase": 6,
     "difficulty": "medium",
-    "issue": null
+    "issue": 208
   },
   {
     "id": 208,
@@ -1762,7 +1762,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Control what receives clicks",
     "phase": 6,
     "difficulty": "medium",
-    "issue": null
+    "issue": 209
   },
   {
     "id": 209,
@@ -1770,7 +1770,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Guarantee a 44px touch target",
     "phase": 6,
     "difficulty": "medium",
-    "issue": null
+    "issue": 210
   },
   {
     "id": 210,
@@ -1778,7 +1778,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Diagnose an overlap bug",
     "phase": 6,
     "difficulty": "hard",
-    "issue": null
+    "issue": 211
   },
   {
     "id": 211,
@@ -1786,7 +1786,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Lay out a printable invoice",
     "phase": 6,
     "difficulty": "hard",
-    "issue": null
+    "issue": 212
   },
   {
     "id": 212,
@@ -1794,7 +1794,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Rebuild a layout the 2010 way, then the modern way",
     "phase": 6,
     "difficulty": "hard",
-    "issue": null
+    "issue": 213
   },
   {
     "id": 213,
@@ -1802,7 +1802,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a layout that works in any writing mode",
     "phase": 6,
     "difficulty": "hard",
-    "issue": null
+    "issue": 214
   },
   {
     "id": 214,
@@ -1810,7 +1810,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Remove unnecessary positioning",
     "phase": 6,
     "difficulty": "hard",
-    "issue": null
+    "issue": 215
   },
   {
     "id": 215,
@@ -1818,7 +1818,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a documentation page shell",
     "phase": 6,
     "difficulty": "hard",
-    "issue": null
+    "issue": 216
   },
   {
     "id": 216,
@@ -1826,7 +1826,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Turn an element into a flex container",
     "phase": 7,
     "difficulty": "easy",
-    "issue": null
+    "issue": 217
   },
   {
     "id": 217,
@@ -1834,7 +1834,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Name the axes before you touch a property",
     "phase": 7,
     "difficulty": "easy",
-    "issue": null
+    "issue": 218
   },
   {
     "id": 218,
@@ -1842,7 +1842,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Distribute space along the main axis",
     "phase": 7,
     "difficulty": "easy",
-    "issue": null
+    "issue": 219
   },
   {
     "id": 219,
@@ -1850,7 +1850,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Align along the cross axis",
     "phase": 7,
     "difficulty": "easy",
-    "issue": null
+    "issue": 220
   },
   {
     "id": 220,
@@ -1858,7 +1858,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Override alignment per item",
     "phase": 7,
     "difficulty": "easy",
-    "issue": null
+    "issue": 221
   },
   {
     "id": 221,
@@ -1866,7 +1866,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Let items wrap onto new lines",
     "phase": 7,
     "difficulty": "medium",
-    "issue": null
+    "issue": 222
   },
   {
     "id": 222,
@@ -1874,7 +1874,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Align wrapped lines",
     "phase": 7,
     "difficulty": "medium",
-    "issue": null
+    "issue": 223
   },
   {
     "id": 223,
@@ -1882,7 +1882,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Distribute free space with flex-grow",
     "phase": 7,
     "difficulty": "medium",
-    "issue": null
+    "issue": 224
   },
   {
     "id": 224,
@@ -1890,7 +1890,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Control shrinking under pressure",
     "phase": 7,
     "difficulty": "hard",
-    "issue": null
+    "issue": 225
   },
   {
     "id": 225,
@@ -1898,7 +1898,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Set the starting size with flex-basis",
     "phase": 7,
     "difficulty": "hard",
-    "issue": null
+    "issue": 226
   },
   {
     "id": 226,
@@ -1906,7 +1906,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Read and write the flex shorthand",
     "phase": 7,
     "difficulty": "medium",
-    "issue": null
+    "issue": 227
   },
   {
     "id": 227,
@@ -1914,7 +1914,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build genuinely equal-width columns",
     "phase": 7,
     "difficulty": "medium",
-    "issue": null
+    "issue": 228
   },
   {
     "id": 228,
@@ -1922,7 +1922,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build the holy grail layout with flex",
     "phase": 7,
     "difficulty": "hard",
-    "issue": null
+    "issue": 229
   },
   {
     "id": 229,
@@ -1930,7 +1930,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Push the footer to the bottom",
     "phase": 7,
     "difficulty": "easy",
-    "issue": null
+    "issue": 230
   },
   {
     "id": 230,
@@ -1938,7 +1938,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build the media object pattern",
     "phase": 7,
     "difficulty": "medium",
-    "issue": null
+    "issue": 231
   },
   {
     "id": 231,
@@ -1946,7 +1946,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a responsive navigation bar",
     "phase": 7,
     "difficulty": "medium",
-    "issue": null
+    "issue": 232
   },
   {
     "id": 232,
@@ -1954,7 +1954,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Align card footers in a row",
     "phase": 7,
     "difficulty": "medium",
-    "issue": null
+    "issue": 233
   },
   {
     "id": 233,
@@ -1962,7 +1962,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Space flex items with gap",
     "phase": 7,
     "difficulty": "easy",
-    "issue": null
+    "issue": 234
   },
   {
     "id": 234,
@@ -1970,7 +1970,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Reorder items visually with order",
     "phase": 7,
     "difficulty": "hard",
-    "issue": null
+    "issue": 235
   },
   {
     "id": 235,
@@ -1978,7 +1978,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Fix the flex item that will not shrink",
     "phase": 7,
     "difficulty": "hard",
-    "issue": null
+    "issue": 236
   },
   {
     "id": 236,
@@ -1986,7 +1986,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Nest flex containers without chaos",
     "phase": 7,
     "difficulty": "hard",
-    "issue": null
+    "issue": 237
   },
   {
     "id": 237,
@@ -1994,7 +1994,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Choose flex or inline-flex",
     "phase": 7,
     "difficulty": "easy",
-    "issue": null
+    "issue": 238
   },
   {
     "id": 238,
@@ -2002,7 +2002,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Handle a toolbar that runs out of room",
     "phase": 7,
     "difficulty": "hard",
-    "issue": null
+    "issue": 239
   },
   {
     "id": 239,
@@ -2010,7 +2010,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a split layout inside a component",
     "phase": 7,
     "difficulty": "medium",
-    "issue": null
+    "issue": 240
   },
   {
     "id": 240,
@@ -2018,7 +2018,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Lay out a form row",
     "phase": 7,
     "difficulty": "medium",
-    "issue": null
+    "issue": 241
   },
   {
     "id": 241,
@@ -2026,7 +2026,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Centre anything with flex",
     "phase": 7,
     "difficulty": "easy",
-    "issue": null
+    "issue": 242
   },
   {
     "id": 242,
@@ -2034,7 +2034,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Decide between basis and width in a wrap layout",
     "phase": 7,
     "difficulty": "hard",
-    "issue": null
+    "issue": 243
   },
   {
     "id": 243,
@@ -2042,7 +2042,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Fix the ragged last row",
     "phase": 7,
     "difficulty": "hard",
-    "issue": null
+    "issue": 244
   },
   {
     "id": 244,
@@ -2050,7 +2050,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Fake a table with flex, and learn why not to",
     "phase": 7,
     "difficulty": "hard",
-    "issue": null
+    "issue": 245
   },
   {
     "id": 245,
@@ -2058,7 +2058,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Test a flex layout in rtl",
     "phase": 7,
     "difficulty": "medium",
-    "issue": null
+    "issue": 246
   },
   {
     "id": 246,
@@ -2066,7 +2066,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a tag input row",
     "phase": 7,
     "difficulty": "medium",
-    "issue": null
+    "issue": 247
   },
   {
     "id": 247,
@@ -2074,7 +2074,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a pricing table row with flex",
     "phase": 7,
     "difficulty": "medium",
-    "issue": null
+    "issue": 248
   },
   {
     "id": 248,
@@ -2082,7 +2082,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a responsive stats row",
     "phase": 7,
     "difficulty": "easy",
-    "issue": null
+    "issue": 249
   },
   {
     "id": 249,
@@ -2090,7 +2090,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build the sidebar pattern that collapses itself",
     "phase": 7,
     "difficulty": "hard",
-    "issue": null
+    "issue": 250
   },
   {
     "id": 250,
@@ -2098,7 +2098,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Combine flex with horizontal scrolling",
     "phase": 7,
     "difficulty": "medium",
-    "issue": null
+    "issue": 251
   },
   {
     "id": 251,
@@ -2106,7 +2106,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Align mixed-size items on their baselines",
     "phase": 7,
     "difficulty": "hard",
-    "issue": null
+    "issue": 252
   },
   {
     "id": 252,
@@ -2114,7 +2114,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Collect five flexbox gotchas",
     "phase": 7,
     "difficulty": "hard",
-    "issue": null
+    "issue": 253
   },
   {
     "id": 253,
@@ -2122,7 +2122,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Refactor a float layout to flex",
     "phase": 7,
     "difficulty": "medium",
-    "issue": null
+    "issue": 254
   },
   {
     "id": 254,
@@ -2130,7 +2130,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Check flex layout performance",
     "phase": 7,
     "difficulty": "hard",
-    "issue": null
+    "issue": 255
   },
   {
     "id": 255,
@@ -2138,7 +2138,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Write the flex-or-grid decision rule",
     "phase": 7,
     "difficulty": "medium",
-    "issue": null
+    "issue": 256
   },
   {
     "id": 256,
@@ -2146,7 +2146,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build an app shell with flex",
     "phase": 7,
     "difficulty": "hard",
-    "issue": null
+    "issue": 257
   },
   {
     "id": 257,
@@ -2154,7 +2154,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a nested comment thread",
     "phase": 7,
     "difficulty": "medium",
-    "issue": null
+    "issue": 258
   },
   {
     "id": 258,
@@ -2162,7 +2162,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a kanban column",
     "phase": 7,
     "difficulty": "hard",
-    "issue": null
+    "issue": 259
   },
   {
     "id": 259,
@@ -2170,7 +2170,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a chat message layout",
     "phase": 7,
     "difficulty": "hard",
-    "issue": null
+    "issue": 260
   },
   {
     "id": 260,
@@ -2178,7 +2178,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Decide when visual order should differ",
     "phase": 7,
     "difficulty": "hard",
-    "issue": null
+    "issue": 261
   },
   {
     "id": 261,
@@ -2186,7 +2186,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Combine flex with aspect-ratio",
     "phase": 7,
     "difficulty": "medium",
-    "issue": null
+    "issue": 262
   },
   {
     "id": 262,
@@ -2194,7 +2194,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Truncate text inside a flex item",
     "phase": 7,
     "difficulty": "hard",
-    "issue": null
+    "issue": 263
   },
   {
     "id": 263,
@@ -2202,7 +2202,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Design empty and loading states for a flex layout",
     "phase": 7,
     "difficulty": "medium",
-    "issue": null
+    "issue": 264
   },
   {
     "id": 264,
@@ -2210,7 +2210,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Audit a flex layout against a checklist",
     "phase": 7,
     "difficulty": "hard",
-    "issue": null
+    "issue": 265
   },
   {
     "id": 265,
@@ -2218,7 +2218,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a dashboard header and toolbar system",
     "phase": 7,
     "difficulty": "hard",
-    "issue": null
+    "issue": 266
   },
   {
     "id": 266,
@@ -2226,7 +2226,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Create your first grid",
     "phase": 8,
     "difficulty": "easy",
-    "issue": null
+    "issue": 267
   },
   {
     "id": 267,
@@ -2234,7 +2234,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Understand the fr unit",
     "phase": 8,
     "difficulty": "easy",
-    "issue": null
+    "issue": 268
   },
   {
     "id": 268,
@@ -2242,7 +2242,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Space grid tracks with gap",
     "phase": 8,
     "difficulty": "easy",
-    "issue": null
+    "issue": 269
   },
   {
     "id": 269,
@@ -2250,7 +2250,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Define explicit rows and columns",
     "phase": 8,
     "difficulty": "easy",
-    "issue": null
+    "issue": 270
   },
   {
     "id": 270,
@@ -2258,7 +2258,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Compress track lists with repeat()",
     "phase": 8,
     "difficulty": "easy",
-    "issue": null
+    "issue": 271
   },
   {
     "id": 271,
@@ -2266,7 +2266,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Size tracks with minmax()",
     "phase": 8,
     "difficulty": "medium",
-    "issue": null
+    "issue": 272
   },
   {
     "id": 272,
@@ -2274,7 +2274,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a responsive grid with no media queries",
     "phase": 8,
     "difficulty": "hard",
-    "issue": null
+    "issue": 273
   },
   {
     "id": 273,
@@ -2282,7 +2282,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Place items by grid line number",
     "phase": 8,
     "difficulty": "medium",
-    "issue": null
+    "issue": 274
   },
   {
     "id": 274,
@@ -2290,7 +2290,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Name your grid lines",
     "phase": 8,
     "difficulty": "hard",
-    "issue": null
+    "issue": 275
   },
   {
     "id": 275,
@@ -2298,7 +2298,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Lay out with named template areas",
     "phase": 8,
     "difficulty": "medium",
-    "issue": null
+    "issue": 276
   },
   {
     "id": 276,
@@ -2306,7 +2306,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Control the auto-placement algorithm",
     "phase": 8,
     "difficulty": "hard",
-    "issue": null
+    "issue": 277
   },
   {
     "id": 277,
@@ -2314,7 +2314,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Size the tracks grid creates for you",
     "phase": 8,
     "difficulty": "medium",
-    "issue": null
+    "issue": 278
   },
   {
     "id": 278,
@@ -2322,7 +2322,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Span items across tracks",
     "phase": 8,
     "difficulty": "medium",
-    "issue": null
+    "issue": 279
   },
   {
     "id": 279,
@@ -2330,7 +2330,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Align inside a grid container",
     "phase": 8,
     "difficulty": "medium",
-    "issue": null
+    "issue": 280
   },
   {
     "id": 280,
@@ -2338,7 +2338,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Align a single grid item",
     "phase": 8,
     "difficulty": "easy",
-    "issue": null
+    "issue": 281
   },
   {
     "id": 281,
@@ -2346,7 +2346,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Centre with grid in one line",
     "phase": 8,
     "difficulty": "easy",
-    "issue": null
+    "issue": 282
   },
   {
     "id": 282,
@@ -2354,7 +2354,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build the holy grail layout with grid",
     "phase": 8,
     "difficulty": "medium",
-    "issue": null
+    "issue": 283
   },
   {
     "id": 283,
@@ -2362,7 +2362,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Break an element out of a centred column",
     "phase": 8,
     "difficulty": "hard",
-    "issue": null
+    "issue": 284
   },
   {
     "id": 284,
@@ -2370,7 +2370,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Align nested content with subgrid",
     "phase": 8,
     "difficulty": "hard",
-    "issue": null
+    "issue": 285
   },
   {
     "id": 285,
@@ -2378,7 +2378,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Approximate a masonry layout",
     "phase": 8,
     "difficulty": "hard",
-    "issue": null
+    "issue": 286
   },
   {
     "id": 286,
@@ -2386,7 +2386,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Compare grid and flex for the same card layout",
     "phase": 8,
     "difficulty": "medium",
-    "issue": null
+    "issue": 287
   },
   {
     "id": 287,
@@ -2394,7 +2394,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Size tracks by content",
     "phase": 8,
     "difficulty": "hard",
-    "issue": null
+    "issue": 288
   },
   {
     "id": 288,
@@ -2402,7 +2402,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Stop grid items from overflowing",
     "phase": 8,
     "difficulty": "hard",
-    "issue": null
+    "issue": 289
   },
   {
     "id": 289,
@@ -2410,7 +2410,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Rearrange a layout across breakpoints",
     "phase": 8,
     "difficulty": "medium",
-    "issue": null
+    "issue": 290
   },
   {
     "id": 290,
@@ -2418,7 +2418,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a dashboard widget grid",
     "phase": 8,
     "difficulty": "hard",
-    "issue": null
+    "issue": 291
   },
   {
     "id": 291,
@@ -2426,7 +2426,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Lay out a form with grid",
     "phase": 8,
     "difficulty": "medium",
-    "issue": null
+    "issue": 292
   },
   {
     "id": 292,
@@ -2434,7 +2434,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a data grid with CSS grid",
     "phase": 8,
     "difficulty": "hard",
-    "issue": null
+    "issue": 293
   },
   {
     "id": 293,
@@ -2442,7 +2442,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a photo gallery with varied sizes",
     "phase": 8,
     "difficulty": "medium",
-    "issue": null
+    "issue": 294
   },
   {
     "id": 294,
@@ -2450,7 +2450,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Animate grid track sizes",
     "phase": 8,
     "difficulty": "hard",
-    "issue": null
+    "issue": 295
   },
   {
     "id": 295,
@@ -2458,7 +2458,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Stack elements on top of each other with grid",
     "phase": 8,
     "difficulty": "medium",
-    "issue": null
+    "issue": 296
   },
   {
     "id": 296,
@@ -2466,7 +2466,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a grid of equal squares",
     "phase": 8,
     "difficulty": "easy",
-    "issue": null
+    "issue": 297
   },
   {
     "id": 297,
@@ -2474,7 +2474,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Debug grid with DevTools overlays",
     "phase": 8,
     "difficulty": "medium",
-    "issue": null
+    "issue": 298
   },
   {
     "id": 298,
@@ -2482,7 +2482,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Nest grids sensibly",
     "phase": 8,
     "difficulty": "hard",
-    "issue": null
+    "issue": 299
   },
   {
     "id": 299,
@@ -2490,7 +2490,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Reorder grid items safely",
     "phase": 8,
     "difficulty": "medium",
-    "issue": null
+    "issue": 300
   },
   {
     "id": 300,
@@ -2498,7 +2498,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a magazine-style article layout",
     "phase": 8,
     "difficulty": "hard",
-    "issue": null
+    "issue": 301
   },
   {
     "id": 301,
@@ -2506,7 +2506,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a month calendar",
     "phase": 8,
     "difficulty": "hard",
-    "issue": null
+    "issue": 302
   },
   {
     "id": 302,
@@ -2514,7 +2514,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a timeline or gantt row",
     "phase": 8,
     "difficulty": "hard",
-    "issue": null
+    "issue": 303
   },
   {
     "id": 303,
@@ -2522,7 +2522,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Combine grid with scrolling regions",
     "phase": 8,
     "difficulty": "hard",
-    "issue": null
+    "issue": 304
   },
   {
     "id": 304,
@@ -2530,7 +2530,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Provide a fallback for a grid layout",
     "phase": 8,
     "difficulty": "medium",
-    "issue": null
+    "issue": 305
   },
   {
     "id": 305,
@@ -2538,7 +2538,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Measure grid layout cost",
     "phase": 8,
     "difficulty": "hard",
-    "issue": null
+    "issue": 306
   },
   {
     "id": 306,
@@ -2546,7 +2546,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Verify a grid layout in rtl",
     "phase": 8,
     "difficulty": "medium",
-    "issue": null
+    "issue": 307
   },
   {
     "id": 307,
@@ -2554,7 +2554,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a card with internal grid",
     "phase": 8,
     "difficulty": "medium",
-    "issue": null
+    "issue": 308
   },
   {
     "id": 308,
@@ -2562,7 +2562,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a split-screen layout",
     "phase": 8,
     "difficulty": "easy",
-    "issue": null
+    "issue": 309
   },
   {
     "id": 309,
@@ -2570,7 +2570,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a collapsible sidebar layout",
     "phase": 8,
     "difficulty": "hard",
-    "issue": null
+    "issue": 310
   },
   {
     "id": 310,
@@ -2578,7 +2578,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Handle sparse grids",
     "phase": 8,
     "difficulty": "medium",
-    "issue": null
+    "issue": 311
   },
   {
     "id": 311,
@@ -2586,7 +2586,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build an image-heavy grid without layout shift",
     "phase": 8,
     "difficulty": "hard",
-    "issue": null
+    "issue": 312
   },
   {
     "id": 312,
@@ -2594,7 +2594,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a bento-box layout",
     "phase": 8,
     "difficulty": "hard",
-    "issue": null
+    "issue": 313
   },
   {
     "id": 313,
@@ -2602,7 +2602,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Review a grid implementation",
     "phase": 8,
     "difficulty": "medium",
-    "issue": null
+    "issue": 314
   },
   {
     "id": 314,
@@ -2610,7 +2610,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build your grid reference page",
     "phase": 8,
     "difficulty": "medium",
-    "issue": null
+    "issue": 315
   },
   {
     "id": 315,
@@ -2618,7 +2618,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Rebuild a marketing page layout from a screenshot",
     "phase": 8,
     "difficulty": "hard",
-    "issue": null
+    "issue": 316
   },
   {
     "id": 316,
@@ -2626,7 +2626,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Rebuild an application layout from a screenshot",
     "phase": 8,
     "difficulty": "hard",
-    "issue": null
+    "issue": 317
   },
   {
     "id": 317,
@@ -2634,7 +2634,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Rebuild an editorial layout from a screenshot",
     "phase": 8,
     "difficulty": "hard",
-    "issue": null
+    "issue": 318
   },
   {
     "id": 318,
@@ -2642,7 +2642,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Choose the right layout tool for ten components",
     "phase": 8,
     "difficulty": "medium",
-    "issue": null
+    "issue": 319
   },
   {
     "id": 319,
@@ -2650,7 +2650,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build three layouts with zero media queries",
     "phase": 8,
     "difficulty": "hard",
-    "issue": null
+    "issue": 320
   },
   {
     "id": 320,
@@ -2658,7 +2658,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a complete product page with grid",
     "phase": 8,
     "difficulty": "hard",
-    "issue": null
+    "issue": 321
   },
   {
     "id": 321,
@@ -2666,7 +2666,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Fix a page that ignores mobile",
     "phase": 9,
     "difficulty": "easy",
-    "issue": null
+    "issue": 322
   },
   {
     "id": 322,
@@ -2674,7 +2674,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Write mobile-first CSS",
     "phase": 9,
     "difficulty": "medium",
-    "issue": null
+    "issue": 323
   },
   {
     "id": 323,
@@ -2682,7 +2682,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Write media queries properly",
     "phase": 9,
     "difficulty": "easy",
-    "issue": null
+    "issue": 324
   },
   {
     "id": 324,
@@ -2690,7 +2690,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Choose breakpoints from content",
     "phase": 9,
     "difficulty": "medium",
-    "issue": null
+    "issue": 325
   },
   {
     "id": 325,
@@ -2698,7 +2698,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Style by container, not viewport",
     "phase": 9,
     "difficulty": "hard",
-    "issue": null
+    "issue": 326
   },
   {
     "id": 326,
@@ -2706,7 +2706,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Size with container query units",
     "phase": 9,
     "difficulty": "hard",
-    "issue": null
+    "issue": 327
   },
   {
     "id": 327,
@@ -2714,7 +2714,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Query a container's style",
     "phase": 9,
     "difficulty": "hard",
-    "issue": null
+    "issue": 328
   },
   {
     "id": 328,
@@ -2722,7 +2722,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Serve the right image size",
     "phase": 9,
     "difficulty": "hard",
-    "issue": null
+    "issue": 329
   },
   {
     "id": 329,
@@ -2730,7 +2730,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Art-direct images with picture",
     "phase": 9,
     "difficulty": "medium",
-    "issue": null
+    "issue": 330
   },
   {
     "id": 330,
@@ -2738,7 +2738,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Make spacing fluid",
     "phase": 9,
     "difficulty": "medium",
-    "issue": null
+    "issue": 331
   },
   {
     "id": 331,
@@ -2746,7 +2746,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Scale type across breakpoints",
     "phase": 9,
     "difficulty": "medium",
-    "issue": null
+    "issue": 332
   },
   {
     "id": 332,
@@ -2754,7 +2754,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Adapt to orientation changes",
     "phase": 9,
     "difficulty": "medium",
-    "issue": null
+    "issue": 333
   },
   {
     "id": 333,
@@ -2762,7 +2762,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Adapt to input type",
     "phase": 9,
     "difficulty": "hard",
-    "issue": null
+    "issue": 334
   },
   {
     "id": 334,
@@ -2770,7 +2770,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Respect reduced motion",
     "phase": 9,
     "difficulty": "medium",
-    "issue": null
+    "issue": 335
   },
   {
     "id": 335,
@@ -2778,7 +2778,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Respect contrast preferences",
     "phase": 9,
     "difficulty": "medium",
-    "issue": null
+    "issue": 336
   },
   {
     "id": 336,
@@ -2786,7 +2786,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Adapt to data saver preferences",
     "phase": 9,
     "difficulty": "medium",
-    "issue": null
+    "issue": 337
   },
   {
     "id": 337,
@@ -2794,7 +2794,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Respect device safe areas",
     "phase": 9,
     "difficulty": "medium",
-    "issue": null
+    "issue": 338
   },
   {
     "id": 338,
@@ -2802,7 +2802,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Handle mobile browser chrome",
     "phase": 9,
     "difficulty": "hard",
-    "issue": null
+    "issue": 339
   },
   {
     "id": 339,
@@ -2810,7 +2810,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a navigation that adapts",
     "phase": 9,
     "difficulty": "hard",
-    "issue": null
+    "issue": 340
   },
   {
     "id": 340,
@@ -2818,7 +2818,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Make a complex table responsive",
     "phase": 9,
     "difficulty": "hard",
-    "issue": null
+    "issue": 341
   },
   {
     "id": 341,
@@ -2826,7 +2826,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a card that works in five contexts",
     "phase": 9,
     "difficulty": "hard",
-    "issue": null
+    "issue": 342
   },
   {
     "id": 342,
@@ -2834,7 +2834,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build responsive layouts with no queries at all",
     "phase": 9,
     "difficulty": "hard",
-    "issue": null
+    "issue": 343
   },
   {
     "id": 343,
@@ -2842,7 +2842,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Test at 200% and 400% zoom",
     "phase": 9,
     "difficulty": "medium",
-    "issue": null
+    "issue": 344
   },
   {
     "id": 344,
@@ -2850,7 +2850,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Handle background images responsively",
     "phase": 9,
     "difficulty": "medium",
-    "issue": null
+    "issue": 345
   },
   {
     "id": 345,
@@ -2858,7 +2858,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Find layouts that break between breakpoints",
     "phase": 9,
     "difficulty": "medium",
-    "issue": null
+    "issue": 346
   },
   {
     "id": 346,
@@ -2866,7 +2866,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Test on real device sizes",
     "phase": 9,
     "difficulty": "medium",
-    "issue": null
+    "issue": 347
   },
   {
     "id": 347,
@@ -2874,7 +2874,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Make a form work on every screen",
     "phase": 9,
     "difficulty": "hard",
-    "issue": null
+    "issue": 348
   },
   {
     "id": 348,
@@ -2882,7 +2882,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Make a dialog responsive",
     "phase": 9,
     "difficulty": "hard",
-    "issue": null
+    "issue": 349
   },
   {
     "id": 349,
@@ -2890,7 +2890,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Change aspect ratio by breakpoint",
     "phase": 9,
     "difficulty": "medium",
-    "issue": null
+    "issue": 350
   },
   {
     "id": 350,
@@ -2898,7 +2898,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Audit spacing across breakpoints",
     "phase": 9,
     "difficulty": "medium",
-    "issue": null
+    "issue": 351
   },
   {
     "id": 351,
@@ -2906,7 +2906,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Make the page work on paper too",
     "phase": 9,
     "difficulty": "medium",
-    "issue": null
+    "issue": 352
   },
   {
     "id": 352,
@@ -2914,7 +2914,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Make embedded media responsive",
     "phase": 9,
     "difficulty": "medium",
-    "issue": null
+    "issue": 353
   },
   {
     "id": 353,
@@ -2922,7 +2922,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Hide complexity on small screens without losing it",
     "phase": 9,
     "difficulty": "hard",
-    "issue": null
+    "issue": 354
   },
   {
     "id": 354,
@@ -2930,7 +2930,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Audit a responsive grid",
     "phase": 9,
     "difficulty": "medium",
-    "issue": null
+    "issue": 355
   },
   {
     "id": 355,
@@ -2938,7 +2938,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Compare adaptive and responsive approaches",
     "phase": 9,
     "difficulty": "medium",
-    "issue": null
+    "issue": 356
   },
   {
     "id": 356,
@@ -2946,7 +2946,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Make design tokens responsive",
     "phase": 9,
     "difficulty": "hard",
-    "issue": null
+    "issue": 357
   },
   {
     "id": 357,
@@ -2954,7 +2954,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Make a responsive page fast on mobile",
     "phase": 9,
     "difficulty": "hard",
-    "issue": null
+    "issue": 358
   },
   {
     "id": 358,
@@ -2962,7 +2962,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Write your responsive review checklist",
     "phase": 9,
     "difficulty": "medium",
-    "issue": null
+    "issue": 359
   },
   {
     "id": 359,
@@ -2970,7 +2970,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Rebuild a fixed-width page as responsive",
     "phase": 9,
     "difficulty": "hard",
-    "issue": null
+    "issue": 360
   },
   {
     "id": 360,
@@ -2978,7 +2978,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a fully responsive landing page",
     "phase": 9,
     "difficulty": "hard",
-    "issue": null
+    "issue": 361
   },
   {
     "id": 361,
@@ -2986,7 +2986,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Add your first transition",
     "phase": 10,
     "difficulty": "easy",
-    "issue": null
+    "issue": 362
   },
   {
     "id": 362,
@@ -2994,7 +2994,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Compare easing curves",
     "phase": 10,
     "difficulty": "medium",
-    "issue": null
+    "issue": 363
   },
   {
     "id": 363,
@@ -3002,7 +3002,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Transition several properties with different timings",
     "phase": 10,
     "difficulty": "medium",
-    "issue": null
+    "issue": 364
   },
   {
     "id": 364,
@@ -3010,7 +3010,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Design hover feedback that is not annoying",
     "phase": 10,
     "difficulty": "medium",
-    "issue": null
+    "issue": 365
   },
   {
     "id": 365,
@@ -3018,7 +3018,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Move elements with translate",
     "phase": 10,
     "difficulty": "easy",
-    "issue": null
+    "issue": 366
   },
   {
     "id": 366,
@@ -3026,7 +3026,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Scale and rotate",
     "phase": 10,
     "difficulty": "easy",
-    "issue": null
+    "issue": 367
   },
   {
     "id": 367,
@@ -3034,7 +3034,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Discover that transform order matters",
     "phase": 10,
     "difficulty": "medium",
-    "issue": null
+    "issue": 368
   },
   {
     "id": 368,
@@ -3042,7 +3042,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Work in 3D",
     "phase": 10,
     "difficulty": "hard",
-    "issue": null
+    "issue": 369
   },
   {
     "id": 369,
@@ -3050,7 +3050,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Write your first keyframe animation",
     "phase": 10,
     "difficulty": "easy",
-    "issue": null
+    "issue": 370
   },
   {
     "id": 370,
@@ -3058,7 +3058,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Control an animation completely",
     "phase": 10,
     "difficulty": "medium",
-    "issue": null
+    "issue": 371
   },
   {
     "id": 371,
@@ -3066,7 +3066,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Stagger a list animation",
     "phase": 10,
     "difficulty": "medium",
-    "issue": null
+    "issue": 372
   },
   {
     "id": 372,
@@ -3074,7 +3074,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build three loading indicators",
     "phase": 10,
     "difficulty": "medium",
-    "issue": null
+    "issue": 373
   },
   {
     "id": 373,
@@ -3082,7 +3082,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Add micro-interactions to a form",
     "phase": 10,
     "difficulty": "hard",
-    "issue": null
+    "issue": 374
   },
   {
     "id": 374,
@@ -3090,7 +3090,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Find and fix a janky animation",
     "phase": 10,
     "difficulty": "hard",
-    "issue": null
+    "issue": 375
   },
   {
     "id": 375,
@@ -3098,7 +3098,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Use will-change correctly",
     "phase": 10,
     "difficulty": "medium",
-    "issue": null
+    "issue": 376
   },
   {
     "id": 376,
@@ -3106,7 +3106,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Animate elements entering and leaving",
     "phase": 10,
     "difficulty": "hard",
-    "issue": null
+    "issue": 377
   },
   {
     "id": 377,
@@ -3114,7 +3114,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Animate from display: none",
     "phase": 10,
     "difficulty": "hard",
-    "issue": null
+    "issue": 378
   },
   {
     "id": 378,
@@ -3122,7 +3122,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Use the View Transitions API",
     "phase": 10,
     "difficulty": "hard",
-    "issue": null
+    "issue": 379
   },
   {
     "id": 379,
@@ -3130,7 +3130,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Animate on scroll without JavaScript",
     "phase": 10,
     "difficulty": "hard",
-    "issue": null
+    "issue": 380
   },
   {
     "id": 380,
@@ -3138,7 +3138,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a parallax effect responsibly",
     "phase": 10,
     "difficulty": "hard",
-    "issue": null
+    "issue": 381
   },
   {
     "id": 381,
@@ -3146,7 +3146,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build three card hover effects",
     "phase": 10,
     "difficulty": "medium",
-    "issue": null
+    "issue": 382
   },
   {
     "id": 382,
@@ -3154,7 +3154,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Design complete button feedback",
     "phase": 10,
     "difficulty": "medium",
-    "issue": null
+    "issue": 383
   },
   {
     "id": 383,
@@ -3162,7 +3162,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Animate an accordion open and closed",
     "phase": 10,
     "difficulty": "hard",
-    "issue": null
+    "issue": 384
   },
   {
     "id": 384,
@@ -3170,7 +3170,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Animate a modal properly",
     "phase": 10,
     "difficulty": "hard",
-    "issue": null
+    "issue": 385
   },
   {
     "id": 385,
@@ -3178,7 +3178,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Animate between views",
     "phase": 10,
     "difficulty": "hard",
-    "issue": null
+    "issue": 386
   },
   {
     "id": 386,
@@ -3186,7 +3186,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Choreograph a sequence",
     "phase": 10,
     "difficulty": "hard",
-    "issue": null
+    "issue": 387
   },
   {
     "id": 387,
@@ -3194,7 +3194,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Define motion design tokens",
     "phase": 10,
     "difficulty": "medium",
-    "issue": null
+    "issue": 388
   },
   {
     "id": 388,
@@ -3202,7 +3202,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Approximate spring physics",
     "phase": 10,
     "difficulty": "hard",
-    "issue": null
+    "issue": 389
   },
   {
     "id": 389,
@@ -3210,7 +3210,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Animate SVG with CSS",
     "phase": 10,
     "difficulty": "hard",
-    "issue": null
+    "issue": 390
   },
   {
     "id": 390,
@@ -3218,7 +3218,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Animate text carefully",
     "phase": 10,
     "difficulty": "medium",
-    "issue": null
+    "issue": 391
   },
   {
     "id": 391,
@@ -3226,7 +3226,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Animate in discrete steps",
     "phase": 10,
     "difficulty": "medium",
-    "issue": null
+    "issue": 392
   },
   {
     "id": 392,
@@ -3234,7 +3234,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Use looping animations responsibly",
     "phase": 10,
     "difficulty": "medium",
-    "issue": null
+    "issue": 393
   },
   {
     "id": 393,
@@ -3242,7 +3242,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Combine multiple animations on one element",
     "phase": 10,
     "difficulty": "hard",
-    "issue": null
+    "issue": 394
   },
   {
     "id": 394,
@@ -3250,7 +3250,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Audit every animation you have written",
     "phase": 10,
     "difficulty": "medium",
-    "issue": null
+    "issue": 395
   },
   {
     "id": 395,
@@ -3258,7 +3258,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Meet animation accessibility requirements",
     "phase": 10,
     "difficulty": "hard",
-    "issue": null
+    "issue": 396
   },
   {
     "id": 396,
@@ -3266,7 +3266,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Tune interaction feel",
     "phase": 10,
     "difficulty": "medium",
-    "issue": null
+    "issue": 397
   },
   {
     "id": 397,
@@ -3274,7 +3274,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Animate a navigation menu",
     "phase": 10,
     "difficulty": "hard",
-    "issue": null
+    "issue": 398
   },
   {
     "id": 398,
@@ -3282,7 +3282,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Animate data visualisation",
     "phase": 10,
     "difficulty": "hard",
-    "issue": null
+    "issue": 399
   },
   {
     "id": 399,
@@ -3290,7 +3290,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Debug a broken animation",
     "phase": 10,
     "difficulty": "hard",
-    "issue": null
+    "issue": 400
   },
   {
     "id": 400,
@@ -3298,7 +3298,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a motion system page",
     "phase": 10,
     "difficulty": "hard",
-    "issue": null
+    "issue": 401
   },
   {
     "id": 401,
@@ -3306,7 +3306,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a complete button component",
     "phase": 11,
     "difficulty": "medium",
-    "issue": null
+    "issue": 402
   },
   {
     "id": 402,
@@ -3314,7 +3314,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Add sizes and icon slots to buttons",
     "phase": 11,
     "difficulty": "medium",
-    "issue": null
+    "issue": 403
   },
   {
     "id": 403,
@@ -3322,7 +3322,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a segmented button group",
     "phase": 11,
     "difficulty": "medium",
-    "issue": null
+    "issue": 404
   },
   {
     "id": 404,
@@ -3330,7 +3330,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Style links and buttons that look alike",
     "phase": 11,
     "difficulty": "medium",
-    "issue": null
+    "issue": 405
   },
   {
     "id": 405,
@@ -3338,7 +3338,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a text input component",
     "phase": 11,
     "difficulty": "medium",
-    "issue": null
+    "issue": 406
   },
   {
     "id": 406,
@@ -3346,7 +3346,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a floating label input",
     "phase": 11,
     "difficulty": "hard",
-    "issue": null
+    "issue": 407
   },
   {
     "id": 407,
@@ -3354,7 +3354,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Style a native select",
     "phase": 11,
     "difficulty": "hard",
-    "issue": null
+    "issue": 408
   },
   {
     "id": 408,
@@ -3362,7 +3362,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build custom checkboxes and radios",
     "phase": 11,
     "difficulty": "hard",
-    "issue": null
+    "issue": 409
   },
   {
     "id": 409,
@@ -3370,7 +3370,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a toggle switch",
     "phase": 11,
     "difficulty": "medium",
-    "issue": null
+    "issue": 410
   },
   {
     "id": 410,
@@ -3378,7 +3378,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Style a range input",
     "phase": 11,
     "difficulty": "hard",
-    "issue": null
+    "issue": 411
   },
   {
     "id": 411,
@@ -3386,7 +3386,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a resizable textarea",
     "phase": 11,
     "difficulty": "medium",
-    "issue": null
+    "issue": 412
   },
   {
     "id": 412,
@@ -3394,7 +3394,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Style validation states",
     "phase": 11,
     "difficulty": "hard",
-    "issue": null
+    "issue": 413
   },
   {
     "id": 413,
@@ -3402,7 +3402,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Lay out a complete form",
     "phase": 11,
     "difficulty": "hard",
-    "issue": null
+    "issue": 414
   },
   {
     "id": 414,
@@ -3410,7 +3410,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a search field with clear and submit",
     "phase": 11,
     "difficulty": "medium",
-    "issue": null
+    "issue": 415
   },
   {
     "id": 415,
@@ -3418,7 +3418,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a flexible card",
     "phase": 11,
     "difficulty": "medium",
-    "issue": null
+    "issue": 416
   },
   {
     "id": 416,
@@ -3426,7 +3426,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build three list patterns",
     "phase": 11,
     "difficulty": "medium",
-    "issue": null
+    "issue": 417
   },
   {
     "id": 417,
@@ -3434,7 +3434,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a production data table",
     "phase": 11,
     "difficulty": "hard",
-    "issue": null
+    "issue": 418
   },
   {
     "id": 418,
@@ -3442,7 +3442,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build pagination controls",
     "phase": 11,
     "difficulty": "medium",
-    "issue": null
+    "issue": 419
   },
   {
     "id": 419,
@@ -3450,7 +3450,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a tabs component",
     "phase": 11,
     "difficulty": "hard",
-    "issue": null
+    "issue": 420
   },
   {
     "id": 420,
@@ -3458,7 +3458,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build an accordion",
     "phase": 11,
     "difficulty": "medium",
-    "issue": null
+    "issue": 421
   },
   {
     "id": 421,
@@ -3466,7 +3466,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a modal dialog",
     "phase": 11,
     "difficulty": "hard",
-    "issue": null
+    "issue": 422
   },
   {
     "id": 422,
@@ -3474,7 +3474,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a side drawer",
     "phase": 11,
     "difficulty": "hard",
-    "issue": null
+    "issue": 423
   },
   {
     "id": 423,
@@ -3482,7 +3482,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a tooltip",
     "phase": 11,
     "difficulty": "hard",
-    "issue": null
+    "issue": 424
   },
   {
     "id": 424,
@@ -3490,7 +3490,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a dropdown menu",
     "phase": 11,
     "difficulty": "hard",
-    "issue": null
+    "issue": 425
   },
   {
     "id": 425,
@@ -3498,7 +3498,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a toast notification system",
     "phase": 11,
     "difficulty": "hard",
-    "issue": null
+    "issue": 426
   },
   {
     "id": 426,
@@ -3506,7 +3506,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build alert and banner components",
     "phase": 11,
     "difficulty": "medium",
-    "issue": null
+    "issue": 427
   },
   {
     "id": 427,
@@ -3514,7 +3514,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build breadcrumbs",
     "phase": 11,
     "difficulty": "easy",
-    "issue": null
+    "issue": 428
   },
   {
     "id": 428,
@@ -3522,7 +3522,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a production navigation bar",
     "phase": 11,
     "difficulty": "hard",
-    "issue": null
+    "issue": 429
   },
   {
     "id": 429,
@@ -3530,7 +3530,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a sidebar navigation",
     "phase": 11,
     "difficulty": "hard",
-    "issue": null
+    "issue": 430
   },
   {
     "id": 430,
@@ -3538,7 +3538,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build an avatar component",
     "phase": 11,
     "difficulty": "easy",
-    "issue": null
+    "issue": 431
   },
   {
     "id": 431,
@@ -3546,7 +3546,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build badges, chips and tags",
     "phase": 11,
     "difficulty": "easy",
-    "issue": null
+    "issue": 432
   },
   {
     "id": 432,
@@ -3554,7 +3554,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build progress indicators",
     "phase": 11,
     "difficulty": "medium",
-    "issue": null
+    "issue": 433
   },
   {
     "id": 433,
@@ -3562,7 +3562,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a multi-step indicator",
     "phase": 11,
     "difficulty": "medium",
-    "issue": null
+    "issue": 434
   },
   {
     "id": 434,
@@ -3570,7 +3570,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Design empty states",
     "phase": 11,
     "difficulty": "medium",
-    "issue": null
+    "issue": 435
   },
   {
     "id": 435,
@@ -3578,7 +3578,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a file upload control",
     "phase": 11,
     "difficulty": "hard",
-    "issue": null
+    "issue": 436
   },
   {
     "id": 436,
@@ -3586,7 +3586,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Style date and time inputs",
     "phase": 11,
     "difficulty": "medium",
-    "issue": null
+    "issue": 437
   },
   {
     "id": 437,
@@ -3594,7 +3594,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a command palette",
     "phase": 11,
     "difficulty": "hard",
-    "issue": null
+    "issue": 438
   },
   {
     "id": 438,
@@ -3602,7 +3602,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a filterable list view",
     "phase": 11,
     "difficulty": "hard",
-    "issue": null
+    "issue": 439
   },
   {
     "id": 439,
@@ -3610,7 +3610,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a kanban board",
     "phase": 11,
     "difficulty": "hard",
-    "issue": null
+    "issue": 440
   },
   {
     "id": 440,
@@ -3618,7 +3618,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a calendar month view",
     "phase": 11,
     "difficulty": "hard",
-    "issue": null
+    "issue": 441
   },
   {
     "id": 441,
@@ -3626,7 +3626,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Style a chart without a chart library",
     "phase": 11,
     "difficulty": "hard",
-    "issue": null
+    "issue": 442
   },
   {
     "id": 442,
@@ -3634,7 +3634,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build KPI stat cards",
     "phase": 11,
     "difficulty": "easy",
-    "issue": null
+    "issue": 443
   },
   {
     "id": 443,
@@ -3642,7 +3642,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a pricing table",
     "phase": 11,
     "difficulty": "hard",
-    "issue": null
+    "issue": 444
   },
   {
     "id": 444,
@@ -3650,7 +3650,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a testimonial carousel",
     "phase": 11,
     "difficulty": "hard",
-    "issue": null
+    "issue": 445
   },
   {
     "id": 445,
@@ -3658,7 +3658,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a site footer",
     "phase": 11,
     "difficulty": "easy",
-    "issue": null
+    "issue": 446
   },
   {
     "id": 446,
@@ -3666,7 +3666,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build three hero variants",
     "phase": 11,
     "difficulty": "medium",
-    "issue": null
+    "issue": 447
   },
   {
     "id": 447,
@@ -3674,7 +3674,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a consent banner",
     "phase": 11,
     "difficulty": "medium",
-    "issue": null
+    "issue": 448
   },
   {
     "id": 448,
@@ -3682,7 +3682,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Render every state of every component",
     "phase": 11,
     "difficulty": "hard",
-    "issue": null
+    "issue": 449
   },
   {
     "id": 449,
@@ -3690,7 +3690,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Review a component library implementation",
     "phase": 11,
     "difficulty": "medium",
-    "issue": null
+    "issue": 450
   },
   {
     "id": 450,
@@ -3698,7 +3698,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Assemble a small component library page",
     "phase": 11,
     "difficulty": "hard",
-    "issue": null
+    "issue": 451
   },
   {
     "id": 451,
@@ -3706,7 +3706,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Compare CSS methodologies",
     "phase": 12,
     "difficulty": "medium",
-    "issue": null
+    "issue": 452
   },
   {
     "id": 452,
@@ -3714,7 +3714,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build a three-tier token system",
     "phase": 12,
     "difficulty": "hard",
-    "issue": null
+    "issue": 453
   },
   {
     "id": 453,
@@ -3722,7 +3722,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Design a token naming convention",
     "phase": 12,
     "difficulty": "medium",
-    "issue": null
+    "issue": 454
   },
   {
     "id": 454,
@@ -3730,7 +3730,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Use CSS Modules in this app",
     "phase": 12,
     "difficulty": "hard",
-    "issue": null
+    "issue": 455
   },
   {
     "id": 455,
@@ -3738,7 +3738,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Evaluate CSS-in-JS approaches",
     "phase": 12,
     "difficulty": "hard",
-    "issue": null
+    "issue": 456
   },
   {
     "id": 456,
@@ -3746,7 +3746,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build with a utility-first approach",
     "phase": 12,
     "difficulty": "hard",
-    "issue": null
+    "issue": 457
   },
   {
     "id": 457,
@@ -3754,7 +3754,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Evaluate Tailwind against your own system",
     "phase": 12,
     "difficulty": "hard",
-    "issue": null
+    "issue": 458
   },
   {
     "id": 458,
@@ -3762,7 +3762,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Structure a whole codebase with layers",
     "phase": 12,
     "difficulty": "hard",
-    "issue": null
+    "issue": 459
   },
   {
     "id": 459,
@@ -3770,7 +3770,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Scope styles with @scope",
     "phase": 12,
     "difficulty": "hard",
-    "issue": null
+    "issue": 460
   },
   {
     "id": 460,
@@ -3778,7 +3778,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Use native CSS nesting well",
     "phase": 12,
     "difficulty": "medium",
-    "issue": null
+    "issue": 461
   },
   {
     "id": 461,
@@ -3786,7 +3786,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Write your own reset",
     "phase": 12,
     "difficulty": "medium",
-    "issue": null
+    "issue": 462
   },
   {
     "id": 462,
@@ -3794,7 +3794,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Organise CSS across a real codebase",
     "phase": 12,
     "difficulty": "medium",
-    "issue": null
+    "issue": 463
   },
   {
     "id": 463,
@@ -3802,7 +3802,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Ship critical CSS",
     "phase": 12,
     "difficulty": "hard",
-    "issue": null
+    "issue": 464
   },
   {
     "id": 464,
@@ -3810,7 +3810,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Measure and reduce CSS cost",
     "phase": 12,
     "difficulty": "hard",
-    "issue": null
+    "issue": 465
   },
   {
     "id": 465,
@@ -3818,7 +3818,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Reduce stylesheet size",
     "phase": 12,
     "difficulty": "medium",
-    "issue": null
+    "issue": 466
   },
   {
     "id": 466,
@@ -3826,7 +3826,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Architect theming properly",
     "phase": 12,
     "difficulty": "hard",
-    "issue": null
+    "issue": 467
   },
   {
     "id": 467,
@@ -3834,7 +3834,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Run a full accessibility audit",
     "phase": 12,
     "difficulty": "hard",
-    "issue": null
+    "issue": 468
   },
   {
     "id": 468,
@@ -3842,7 +3842,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Guarantee keyboard operability",
     "phase": 12,
     "difficulty": "hard",
-    "issue": null
+    "issue": 469
   },
   {
     "id": 469,
@@ -3850,7 +3850,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Manage focus across state changes",
     "phase": 12,
     "difficulty": "hard",
-    "issue": null
+    "issue": 470
   },
   {
     "id": 470,
@@ -3858,7 +3858,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Understand how CSS affects screen readers",
     "phase": 12,
     "difficulty": "hard",
-    "issue": null
+    "issue": 471
   },
   {
     "id": 471,
@@ -3866,7 +3866,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Build the visually hidden utility properly",
     "phase": 12,
     "difficulty": "medium",
-    "issue": null
+    "issue": 472
   },
   {
     "id": 472,
@@ -3874,7 +3874,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Systematise reduced motion",
     "phase": 12,
     "difficulty": "medium",
-    "issue": null
+    "issue": 473
   },
   {
     "id": 473,
@@ -3882,7 +3882,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Add full RTL support",
     "phase": 12,
     "difficulty": "hard",
-    "issue": null
+    "issue": 474
   },
   {
     "id": 474,
@@ -3890,7 +3890,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Handle other languages in CSS",
     "phase": 12,
     "difficulty": "hard",
-    "issue": null
+    "issue": 475
   },
   {
     "id": 475,
@@ -3898,7 +3898,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Set up stylelint",
     "phase": 12,
     "difficulty": "medium",
-    "issue": null
+    "issue": 476
   },
   {
     "id": 476,
@@ -3906,7 +3906,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Enforce CSS quality in CI",
     "phase": 12,
     "difficulty": "hard",
-    "issue": null
+    "issue": 477
   },
   {
     "id": 477,
@@ -3914,7 +3914,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Add visual regression testing",
     "phase": 12,
     "difficulty": "hard",
-    "issue": null
+    "issue": 478
   },
   {
     "id": 478,
@@ -3922,7 +3922,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Design a component styling API",
     "phase": 12,
     "difficulty": "hard",
-    "issue": null
+    "issue": 479
   },
   {
     "id": 479,
@@ -3930,7 +3930,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Compose styles without specificity wars",
     "phase": 12,
     "difficulty": "hard",
-    "issue": null
+    "issue": 480
   },
   {
     "id": 480,
@@ -3938,7 +3938,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Document a design system",
     "phase": 12,
     "difficulty": "hard",
-    "issue": null
+    "issue": 481
   },
   {
     "id": 481,
@@ -3946,7 +3946,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Refactor a legacy stylesheet",
     "phase": 12,
     "difficulty": "hard",
-    "issue": null
+    "issue": 482
   },
   {
     "id": 482,
@@ -3954,7 +3954,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Find and remove dead CSS",
     "phase": 12,
     "difficulty": "medium",
-    "issue": null
+    "issue": 483
   },
   {
     "id": 483,
@@ -3962,7 +3962,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Drive CSS from JavaScript safely",
     "phase": 12,
     "difficulty": "hard",
-    "issue": null
+    "issue": 484
   },
   {
     "id": 484,
@@ -3970,7 +3970,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Design components for unknown contexts",
     "phase": 12,
     "difficulty": "hard",
-    "issue": null
+    "issue": 485
   },
   {
     "id": 485,
@@ -3978,7 +3978,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Define your baseline and enhancements",
     "phase": 12,
     "difficulty": "medium",
-    "issue": null
+    "issue": 486
   },
   {
     "id": 486,
@@ -3986,7 +3986,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Choose a scoping strategy for the repo",
     "phase": 12,
     "difficulty": "hard",
-    "issue": null
+    "issue": 487
   },
   {
     "id": 487,
@@ -3994,7 +3994,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Set and enforce a CSS performance budget",
     "phase": 12,
     "difficulty": "hard",
-    "issue": null
+    "issue": 488
   },
   {
     "id": 488,
@@ -4002,7 +4002,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Write the repo's CSS style guide",
     "phase": 12,
     "difficulty": "medium",
-    "issue": null
+    "issue": 489
   },
   {
     "id": 489,
@@ -4010,7 +4010,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Write the repo README a hiring manager will read",
     "phase": 12,
     "difficulty": "medium",
-    "issue": null
+    "issue": 490
   },
   {
     "id": 490,
@@ -4018,7 +4018,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Ship the complete design system",
     "phase": 12,
     "difficulty": "hard",
-    "issue": null
+    "issue": 491
   },
   {
     "id": 491,
@@ -4026,7 +4026,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Capstone: build a marketing site from a blank file",
     "phase": 13,
     "difficulty": "capstone",
-    "issue": null
+    "issue": 492
   },
   {
     "id": 492,
@@ -4034,7 +4034,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Capstone: build an analytics dashboard",
     "phase": 13,
     "difficulty": "capstone",
-    "issue": null
+    "issue": 493
   },
   {
     "id": 493,
@@ -4042,7 +4042,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Capstone: build an e-commerce product flow",
     "phase": 13,
     "difficulty": "capstone",
-    "issue": null
+    "issue": 494
   },
   {
     "id": 494,
@@ -4050,7 +4050,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Capstone: publish a documented design system",
     "phase": 13,
     "difficulty": "capstone",
-    "issue": null
+    "issue": 495
   },
   {
     "id": 495,
@@ -4058,7 +4058,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Capstone: clone a real product UI",
     "phase": 13,
     "difficulty": "capstone",
-    "issue": null
+    "issue": 496
   },
   {
     "id": 496,
@@ -4066,7 +4066,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Capstone: make an inaccessible page accessible",
     "phase": 13,
     "difficulty": "capstone",
-    "issue": null
+    "issue": 497
   },
   {
     "id": 497,
@@ -4074,7 +4074,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Capstone: make a slow page fast",
     "phase": 13,
     "difficulty": "capstone",
-    "issue": null
+    "issue": 498
   },
   {
     "id": 498,
@@ -4082,7 +4082,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Capstone: build a landing page in three hours",
     "phase": 13,
     "difficulty": "capstone",
-    "issue": null
+    "issue": 499
   },
   {
     "id": 499,
@@ -4090,7 +4090,7 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Capstone: review someone else's CSS",
     "phase": 13,
     "difficulty": "capstone",
-    "issue": null
+    "issue": 500
   },
   {
     "id": 500,
@@ -4098,6 +4098,6 @@ export const CHALLENGES: ChallengeMeta[] = [
     "title": "Capstone: build and ship your portfolio",
     "phase": 13,
     "difficulty": "capstone",
-    "issue": null
+    "issue": 501
   }
 ]
