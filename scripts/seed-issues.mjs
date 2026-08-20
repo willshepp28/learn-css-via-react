@@ -10,13 +10,11 @@
  * GitHub's secondary rate limit allows roughly 500 content-creating requests
  * per hour, so this paces itself and backs off hard when it gets pushed back.
  */
-import { execFile } from 'node:child_process'
-import { promisify } from 'node:util'
+import { spawn } from 'node:child_process'
 import { readFileSync, writeFileSync, existsSync } from 'node:fs'
 import { fileURLToPath } from 'node:url'
 import { dirname, join } from 'node:path'
 
-const exec = promisify(execFile)
 const here = dirname(fileURLToPath(import.meta.url))
 const root = join(here, '..')
 
@@ -29,12 +27,27 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms))
 const stamp = () => new Date().toISOString().slice(11, 19)
 const log = (msg) => console.log(`[${stamp()}] ${msg}`)
 
-async function gh(args, input) {
-  const { stdout } = await exec('gh', args, {
-    input,
-    maxBuffer: 32 * 1024 * 1024,
+/**
+ * Run gh, optionally piping a JSON body to its stdin. Note this uses spawn
+ * rather than execFile: execFile has no `input` option, so `gh api --input -`
+ * would sit forever waiting on a stdin that never closes.
+ */
+function gh(args, input) {
+  return new Promise((resolve, reject) => {
+    const child = spawn('gh', args)
+    let stdout = ''
+    let stderr = ''
+    child.stdout.on('data', (chunk) => (stdout += chunk))
+    child.stderr.on('data', (chunk) => (stderr += chunk))
+    child.on('error', reject)
+    child.on('close', (code) => {
+      if (code === 0) return resolve(stdout)
+      reject(
+        Object.assign(new Error(`gh ${args[0]} exited ${code}`), { stdout, stderr }),
+      )
+    })
+    child.stdin.end(input ?? '')
   })
-  return stdout
 }
 
 /** gh api POST with retry + backoff for secondary rate limits. */
